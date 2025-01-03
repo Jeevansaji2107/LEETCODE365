@@ -1,4 +1,3 @@
-#DAY-02
 #COUNT VOWEL STRINGS IN RANGES 
 class Solution:
     def is_vowel(self, c):
