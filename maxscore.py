@@ -1,3 +1,4 @@
+#Program to count max score
 class Solution:
     def maxScore(self, s: str) -> int:
         n = len(s)
